@@ -1,6 +1,6 @@
 package com.codepath.nationalparks
 
-import android.media.Image
+
 import com.google.gson.annotations.SerializedName
 
 /**
