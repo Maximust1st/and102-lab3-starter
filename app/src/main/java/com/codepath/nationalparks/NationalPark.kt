@@ -1,6 +1,5 @@
 package com.codepath.nationalparks
 
-
 import com.google.gson.annotations.SerializedName
 
 /**
